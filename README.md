@@ -58,13 +58,13 @@ If you came here, already know what foobar is; If not, thanks for your visit :ra
 <!-- ROADMAP -->
 ## Roadmap (in no particular order)
 
-- [x] [Square Supplies](https://pages.github.com/)
-- [x] [Zombit Monitoring](https://pages.github.com/)
-- [x] [Palindrome](https://pages.github.com/)
-- [x] [Zombit Antidote](https://pages.github.com/)
-- [x] [Please Pass The Coded Messages](https://pages.github.com/)
-- [x] [Re-ID](https://pages.github.com/)
-- [x] [Zombit Infection](https://pages.github.com/)
+- [x] `Square Supplies`
+- [x] `Zombit Monitoring`
+- [x] `Palindrome`
+- [x] `Zombit Antidote`
+- [x] `Please Pass The Coded Messages`
+- [x] `Re-ID`
+- [x] `Zombit Infection`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
