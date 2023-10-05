@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <div align="center">
   <a align="center">
-    <img src="https://user-images.githubusercontent.com/53323058/272986879-f514bd6a-1f0f-44c4-88df-1d2c74840cd3.png" alt="Logo" width="800">
+    <img src="https://user-images.githubusercontent.com/53323058/273028708-3998b41c-574b-4e77-add2-f9867f9e3296.png" alt="Logo" width="800">
   </a>
   <h3 align="center">Google Foobar - Solved Tasks</h3>
   <p align="center">
