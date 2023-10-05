@@ -15,14 +15,13 @@
 ## About the project
 
 <div align="justify">
-This project was born as an aditional work to fullfil a personal pending asignature from my PhD days. Nothing more, nothing less.
-  
-As the software name says: the program is capable of characterise the wheel-rail contact, useful in railway sector dynamics analyses. 
-  
-Let's ChatGPT clarifies our way:
+Ok, It's not a project :smile:; but It was (and still) fun doing it. 
 
-> 
-_Google's Foobar challenge is an invitation-only coding challenge that Google uses to identify and recruit talented programmers_ (yeah, right...)
+If you came here, already know what foobar is; if not, thanks for your visiting me :blush:	
+  
+Let's ChatGPT shortcut for the explantion part:
+
+> _Google's Foobar challenge is an invitation-only coding challenge that Google uses to identify and recruit talented programmers_ (yeah, right...)
 
 _It typically appears as a pop-up message on a user's screen when they are searching for coding-related terms on Google_ (like a creepy surprise; I thought I was being hacked)
 
