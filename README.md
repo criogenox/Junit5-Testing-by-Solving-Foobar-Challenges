@@ -51,8 +51,6 @@ If you came here, already know what foobar is; If not, thanks for your visit :ra
 
 * Each task constructor was renamed using suffixes (ex: solution1, solution2 and so forth) to include them in a single class.
 
-* For more details about the problems statements, see inside the file.
-
 * No intention of winning the code-of-the-year championship; It can be better than what was done, be my guest.
  
 </div>
