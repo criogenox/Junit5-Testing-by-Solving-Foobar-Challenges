@@ -46,6 +46,16 @@ Ok, It's not a project :smile:; but It was (and still) fun doing it. If you came
   </a>
 </div>
 
+### Additional info
+
+* If possible, pure plain core java; no streams preferred used (they tend to be slow for simple tasks).
+
+* Added more test cases (besides those originally given), including extreme ones to avoid long execution times.
+
+* No intention of winning the code-of-the-year championship; It can be better than what was done, be my guest.
+ 
+</div>
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SUMMARY -->
