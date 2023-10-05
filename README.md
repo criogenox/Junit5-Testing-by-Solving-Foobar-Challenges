@@ -56,13 +56,13 @@ Ok, It's not a project :smile:; but It was (and still) fun doing it. If you came
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] This site was built using [GitHub Pages](https://pages.github.com/)
-- [x] Asymetric Cases Implementation
-- [x] Stand-alone Unified Version
-- [ ] Improve Error Events Handling
-- [ ] Increse Profiles Data Base (Extending to APTA/ARR Standards)
-- [ ] More & More Testing (Including Worn Cases)
-- [ ] Implementation of Output Options (PDFBox library)
+- [x] [Square Supplies](https://pages.github.com/)
+- [x] [Zombit Monitoring](https://pages.github.com/)
+- [x] [Palindrome](https://pages.github.com/)
+- [x] [Zombit Antidote](https://pages.github.com/)
+- [x] [Please Pass The Coded Messages](https://pages.github.com/)
+- [x] [Re-ID](https://pages.github.com/)
+- [x] [Zombit Infection](https://pages.github.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
