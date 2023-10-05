@@ -43,7 +43,7 @@ If you came here, already know what foobar is; If not, thanks for your visit :ra
 
 ### Additional info
 
-* If possible, done with pure plain core java; no streams preferred used (they tend to be slow for simple tasks).
+* If possible, done with pure plain core java; no streams preferred used (let the brain does its job).
 
 * Added more test cases (besides those originally given), including extreme ones to avoid long execution times.
 
