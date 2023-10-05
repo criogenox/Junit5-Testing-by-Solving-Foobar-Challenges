@@ -39,10 +39,10 @@ Ok, It's not a project :smile:; but It was (and still) fun doing it. If you came
 
 <div style="display: flex; flex-direction: row; align=center">
   <a href="https://www.java.com/en/">
-    <img class="img"src="https://user-images.githubusercontent.com/53323058/272988601-5d381490-9fe8-4e7c-9ea0-756f1fab6c84.png" alt="Logo" width="160" height="65"/>
+    <img class="img"src="https://user-images.githubusercontent.com/53323058/272988883-80c54b8f-d273-4586-ba77-a94f63748ef0.png" alt="Logo" width="160" height="65"/>
   </a>
   <a href="https://junit.org/junit5/">
-    <img class="img"src="https://user-images.githubusercontent.com/53323058/272988883-80c54b8f-d273-4586-ba77-a94f63748ef0.png" alt="Logo" width="160" height="65"/>
+    <img class="img"src="https://user-images.githubusercontent.com/53323058/272987918-7bde2fd7-76d6-40e7-ac78-239041b82942.png" alt="Logo" width="160" height="65"/>
   </a>
 </div>
 
