@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <div align="center">
   <a align="center">
-    <img src="https://private-user-images.githubusercontent.com/53323058/272978638-0c87ff5a-0b34-4d0e-946f-f73e79a0068c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE2OTY1MjQ1NzAsIm5iZiI6MTY5NjUyNDI3MCwicGF0aCI6Ii81MzMyMzA1OC8yNzI5Nzg2MzgtMGM4N2ZmNWEtMGIzNC00ZDBlLTk0NmYtZjczZTc5YTAwNjhjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEwMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMDA1VDE2NDQzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM1NWZmOTlkOThlZTZjYThkZDExYjVlZGU3MTZiOTYxNjk5M2M3MTNmYjEyODU5ZGRjMzU3Zjc5M2U4NGMwZGImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.B2kR1hBSiggys9q8wee2t1Z0LAHRGUAsS7d0KzJlYyk" alt="Logo" width="800">
+    <img src="https://user-images.githubusercontent.com/53323058/272986879-f514bd6a-1f0f-44c4-88df-1d2c74840cd3.png" alt="Logo" width="800">
   </a>
   <h3 align="center">Google Foobar</h3>
   <p align="center">
@@ -39,46 +39,10 @@ Ok, It's not a project :smile:; but It was (and still) fun doing it. If you came
 
 <div style="display: flex; flex-direction: row; align=center">
   <a href="https://openjfx.io/">
-    <img class="img"src="https://user-images.githubusercontent.com/53323058/230740541-3d3ee950-7f4c-4399-9275-9795ea7c4f37.png" alt="Logo" width="160" height="65"/>
+    <img class="img"src="https://user-images.githubusercontent.com/53323058/272986711-91c6917e-4494-47e5-b17a-cb87b56e268e.png" alt="Logo" width="160" height="65"/>
   </a>
   <a href="https://www.w3.org/TR/CSS/#css">
-    <img class="img"src="https://user-images.githubusercontent.com/53323058/230694275-351e4257-7cbf-4dc7-a1b6-42079b9b37aa.png" alt="Logo" width="160" height="65"/>
-  </a>
-  <a href="https://netbeans.apache.org/">
-    <img class="img"src="https://user-images.githubusercontent.com/53323058/230740868-4ac4dc6c-dc63-494b-8817-01ce016d8347.png" alt="Logo" width="160" height="65"/>
-  </a> 
-  <a href="https://html.spec.whatwg.org/multipage/">
-    <img class="img"src="https://user-images.githubusercontent.com/53323058/230736376-d9063d6b-ad72-4a62-98c6-f2225abf64b0.png" alt="Logo" width="160" height="65"/>
-  </a> 
-  <a href="https://www.thymeleaf.org/index.html/">
-    <img class="img"src="https://user-images.githubusercontent.com/53323058/230737176-0c3c3bdd-22d6-4af6-9041-3abed24a5de5.png" alt="Logo" width="160" height="65"/>
-  </a> 
-  <a href="https://spring.io/">
-    <img class="img"src="https://user-images.githubusercontent.com/53323058/230740257-d2d1973c-dcb8-42b3-a711-0c11d2406e9b.png" alt="Logo" width="160" height="65"/>
-  </a> 
-  <a href="https://www.java.com/en/">
-    <img class="img"src="https://user-images.githubusercontent.com/53323058/230740344-8bb2c4f8-5266-4ad1-a01c-0cce872623e0.png" alt="Logo" width="160" height="65"/>
-  </a> 
-  <a href="https://maven.apache.org/">
-    <img class="img"src="https://user-images.githubusercontent.com/53323058/230741096-33c1b8ab-1ec8-4364-b877-09aaa7df0fcd.png" alt="Logo" width="160" height="65"/>
-  </a> 
-  <a href="https://tailwindcss.com/">
-    <img class="img"src="https://user-images.githubusercontent.com/53323058/230746254-47f923b1-f3b5-4cd0-a858-c6f1bea0be34.png" alt="Logo" width="160" height="65"/>
-  </a> 
-  <a href="https://jakarta.ee/">
-    <img class="img"src="https://user-images.githubusercontent.com/53323058/233829374-17c25749-0243-4016-a780-3b2bcb6823e8.png" alt="Logo" width="160" height="65"/>
-  </a> 
-  <a href="https://vuejs.org/">
-    <img class="img"src="https://user-images.githubusercontent.com/53323058/233828921-3a77ebb6-1de8-4d51-8282-0f66a5e54f35.png" alt="Logo" width="160" height="65"/>
-  </a> 
-  <a href="https://wicket.apache.org/">
-    <img class="img"src="https://user-images.githubusercontent.com/53323058/235093441-20fe9df5-c114-4495-a335-fb2cdc486973.png" alt="Logo" width="160" height="65"/>
-  </a> 
-  <a href="https://maven.apache.org/">
-    <img class="img"src="https://user-images.githubusercontent.com/53323058/230741096-33c1b8ab-1ec8-4364-b877-09aaa7df0fcd.png" alt="Logo" width="160" height="65"/>
-  </a> 
-  <a href="https://maven.apache.org/">
-    <img class="img"src="[https://user-images.githubusercontent.com/53323058/230741096-33c1b8ab-1ec8-4364-b877-09aaa7df0fcd](https://private-user-images.githubusercontent.com/53323058/248514252-24fa43a8-abfb-437b-b074-360618ebe071.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJrZXkxIiwiZXhwIjoxNjg3NjQzMDQyLCJuYmYiOjE2ODc2NDI3NDIsInBhdGgiOiIvNTMzMjMwNTgvMjQ4NTE0MjUyLTI0ZmE0M2E4LWFiZmItNDM3Yi1iMDc0LTM2MDYxOGViZTA3MS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMwNjI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMDYyNFQyMTM5MDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xMGVkOWI5NmUyOTg2ZWVlZjlhY2M0YjkwNGVkNGJiNjdjYjZkYmZlMTNmMWYwMTQxNTNiYjk2ZWRiNDhjZjY3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.YfcljnlHhA-a_MsJenfZ3ZjLUKrE07QhaKLRN5MZJF0).png" alt="Logo" width="160" height="65"/>
+    <img class="img"src="https://user-images.githubusercontent.com/53323058/272986803-468497d9-cfcf-48c3-aa22-890c67138efb.png" alt="Logo" width="160" height="65"/>
   </a>
 </div>
 
