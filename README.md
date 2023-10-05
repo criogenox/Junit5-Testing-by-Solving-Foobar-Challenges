@@ -42,7 +42,7 @@ Ok, It's not a project :smile:; but It was (and still) fun doing it. If you came
     <img class="img"src="https://user-images.githubusercontent.com/53323058/272988883-80c54b8f-d273-4586-ba77-a94f63748ef0.png" alt="Logo" width="160" height="65"/>
   </a>
   <a href="https://junit.org/junit5/">
-    <img class="img"src="https://user-images.githubusercontent.com/53323058/272987918-7bde2fd7-76d6-40e7-ac78-239041b82942.png" alt="Logo" width="160" height="65"/>
+    <img class="img"src="https://user-images.githubusercontent.com/53323058/272989782-c38497db-839d-40fd-80e8-98ec966d7198.png" alt="Logo" width="160" height="65"/>
   </a>
 </div>
 
