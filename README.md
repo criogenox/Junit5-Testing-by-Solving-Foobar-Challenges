@@ -16,7 +16,7 @@
 
 <div align="justify">
 Ok, It's not a project :smile:; but It was (and still) fun doing it. Solving task on my own just for the enjoyment itself. <br /> <br />
-If you came here, already know what foobar is; If not, thanks for your visit :blush:. <br /> <br />
+If you came here, already know what foobar is; If not, thanks for your visit :raised_hands:. <br /> <br />
 
   Let's use ChatGPT shortcut for the explantion step: 
   
