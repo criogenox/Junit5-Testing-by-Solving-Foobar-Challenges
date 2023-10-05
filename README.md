@@ -24,7 +24,7 @@ Let's ChatGPT clarifies our way:
 > 
 _Google's Foobar challenge is an invitation-only coding challenge that Google uses to identify and recruit talented programmers_ (yeah, right...)
 
-_It typically appears as a pop-up message on a user's screen when they are searching for coding-related terms on Google_ (a creepy surprise; when mine came, I thought I was being hacked; I know, I'm an idi*t)
+_It typically appears as a pop-up message on a user's screen when they are searching for coding-related terms on Google_ (like a creepy surprise; I thought I was being hacked)
 
 _Some people have reported receiving an invitation after searching for specific coding-related terms on Google; or have received an invitation through a referral_ (or looking for how to remove stain from carpet; whichever occurs first)
 
