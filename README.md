@@ -48,7 +48,7 @@ Ok, It's not a project :smile:; but It was (and still) fun doing it. If you came
 
 ### Additional info
 
-* If possible, pure plain core java; no streams preferred used (they tend to be slow for simple tasks).
+* If possible, done with pure plain core java; no streams preferred used (they tend to be slow for simple tasks).
 
 * Added more test cases (besides those originally given), including extreme ones to avoid long execution times.
 
