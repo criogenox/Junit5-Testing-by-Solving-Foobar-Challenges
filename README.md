@@ -16,7 +16,7 @@
 
 <div align="justify">
 Ok, It's not a project :smile:; but It was (and still) fun doing it. If you came here, already know what foobar is; If not, thanks for your visiting me :blush:. Let's use ChatGPT shortcut for the explantion step:
-
+<br />
 > **_Google's Foobar challenge is an invitation-only coding challenge that Google uses to identify and recruit talented programmers_** (yeah, right...)
 
 > **_It typically appears as a pop-up message on a user's screen when they are searching for coding-related terms on Google_** (like a creepy surprise; I thought I was being hacked)
