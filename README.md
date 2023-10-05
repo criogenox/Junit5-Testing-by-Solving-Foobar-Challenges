@@ -56,7 +56,7 @@ Ok, It's not a project :smile:; but It was (and still) fun doing it. If you came
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] [Numbers Station Coded Messages] (https://github.com/n3a9/google-foobar/tree/master/Level%202/numbers_station_coded_messages)
+- [x] This site was built using [GitHub Pages](https://pages.github.com/)
 - [x] Asymetric Cases Implementation
 - [x] Stand-alone Unified Version
 - [ ] Improve Error Events Handling
