@@ -47,9 +47,9 @@ If you came here, already know what foobar is; If not, thanks for your visit :ra
 
 * Added more test cases (besides those originally given), including extreme ones to avoid long execution times.
 
-* No intention of winning the code-of-the-year championship; It can be better than what was done, be my guest.
-
 * For a more in-depth understanding of the implemented code, as many comments as possible have been included.
+
+* No intention of winning the code-of-the-year championship; It can be better than what was done, be my guest.
  
 </div>
 
