@@ -15,17 +15,15 @@
 ## About the project
 
 <div align="justify">
-Ok, It's not a project :smile:; but It was (and still) fun doing it. 
-
-If you came here, already know what foobar is; if not, thanks for your visiting me :blush:	
+Ok, It's not a project :smile:; but It was (and still) fun doing it. If you came here, already know what foobar is; If not, thanks for your visiting me :blush:	
   
-Let's ChatGPT shortcut for the explantion part:
+Let's use ChatGPT shortcut for the explantion step:
 
 > _Google's Foobar challenge is an invitation-only coding challenge that Google uses to identify and recruit talented programmers_ (yeah, right...)
 
-_It typically appears as a pop-up message on a user's screen when they are searching for coding-related terms on Google_ (like a creepy surprise; I thought I was being hacked)
+> _It typically appears as a pop-up message on a user's screen when they are searching for coding-related terms on Google_ (like a creepy surprise; I thought I was being hacked)
 
-_Some people have reported receiving an invitation after searching for specific coding-related terms on Google; or have received an invitation through a referral_ (or looking for how to remove stain from carpet; whichever occurs first)
+> _Some people have reported receiving an invitation after searching for specific coding-related terms on Google; or have received an invitation through a referral_ (or looking for how to remove stain from carpet; whichever occurs first)
 
 </div>
 
