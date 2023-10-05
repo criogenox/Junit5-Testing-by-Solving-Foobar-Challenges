@@ -5,9 +5,9 @@
   <a align="center">
     <img src="https://user-images.githubusercontent.com/53323058/272986879-f514bd6a-1f0f-44c4-88df-1d2c74840cd3.png" alt="Logo" width="800">
   </a>
-  <h3 align="center">Google Foobar</h3>
+  <h3 align="center">Google Foobar - Solved Tasks</h3>
   <p align="center">
-    Solved Tasks (personal attempt)
+     (a simple and humble personal attempt)
   </p>
 </div>
 
