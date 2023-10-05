@@ -3,11 +3,11 @@
 <!-- PROJECT LOGO -->
 <div align="center">
   <a align="center">
-    <img src="https://user-images.githubusercontent.com/53323058/230743216-c0687fae-50d3-483e-b5fc-65f5ccbbe3fd.png" alt="Logo" width="800">
+    <img src="https://private-user-images.githubusercontent.com/53323058/272978638-0c87ff5a-0b34-4d0e-946f-f73e79a0068c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE2OTY1MjQ1NzAsIm5iZiI6MTY5NjUyNDI3MCwicGF0aCI6Ii81MzMyMzA1OC8yNzI5Nzg2MzgtMGM4N2ZmNWEtMGIzNC00ZDBlLTk0NmYtZjczZTc5YTAwNjhjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEwMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMDA1VDE2NDQzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM1NWZmOTlkOThlZTZjYThkZDExYjVlZGU3MTZiOTYxNjk5M2M3MTNmYjEyODU5ZGRjMzU3Zjc5M2U4NGMwZGImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.B2kR1hBSiggys9q8wee2t1Z0LAHRGUAsS7d0KzJlYyk" alt="Logo" width="800">
   </a>
-  <h3 align="center">Railway applications</h3>
+  <h3 align="center">Google Foobar</h3>
   <p align="center">
-    Wheel / Rail Contact Characterization Program
+    Solved Tasks (personal attempt)
   </p>
 </div>
 
