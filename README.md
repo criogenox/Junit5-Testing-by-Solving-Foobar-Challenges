@@ -19,13 +19,15 @@ This project was born as an aditional work to fullfil a personal pending asignat
   
 As the software name says: the program is capable of characterise the wheel-rail contact, useful in railway sector dynamics analyses. 
   
-Let's Prof. Dr. Ing. habil. Oldrich Polach clarifies our way:
+Let's ChatGPT clarifies our way:
 
-> In railway applications, the so-called equivalent conicity is used in order to characterise the contact geometry wheelset/track. Basically, the wheelset/track pairing is _“replaced”_ with an _“equivalent wheelset”_ having a conical wheel tread surface, which only possesses validity for a specific wheelset lateral amplitude. The equivalent conicity is then the conicity of a conical wheelset performing a similar wavelike motion as the examined wheelset, at the prescribed lateral amplitude.
-  
-The equivalent conicity acts as a safety parameter which describes the behavior and dynamic interaction between rails & wheels running on a straight or large radius (curved) track. This way, the equivalent conicity could indicate the presence of instable movement leading to a derailment event, therefore It can be used to determine a critical speed of a train at any type of track.
-  
-This crucial parameter could be calculated based on two standards, namely **UIC 519** and **EN 15302**. The non-linear method described in the last one is used by the giving software.
+> 
+_Google's Foobar challenge is an invitation-only coding challenge that Google uses to identify and recruit talented programmers_ (yeah, right...)
+
+_It typically appears as a pop-up message on a user's screen when they are searching for coding-related terms on Google_ (a creepy surprise; when mine came, I thought I was being hacked; I know, I'm an idi*t)
+
+_Some people have reported receiving an invitation after searching for specific coding-related terms on Google; or have received an invitation through a referral_ (or looking for how to remove stain from carpet; whichever occurs first)
+
 </div>
 
 ----
