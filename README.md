@@ -11,8 +11,8 @@
   </p>
 </div>
 
-<!-- ABOUT THE PROJECT -->
-## About the project
+<!-- ABOUT  -->
+## About 
 
 <div align="justify">
 Ok, It's not a project :smile:; but It was (and still) fun doing it. Solving task on my own just for the enjoyment itself. <br /> <br />
