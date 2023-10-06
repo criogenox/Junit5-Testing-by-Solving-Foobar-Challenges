@@ -15,9 +15,7 @@
 ## About the repo
 
 <div align="justify">
-Solving task on my own just for the enjoyment itself. It was (and still) fun doing it.  <br /> <br />
-Coding was made in one shot way, with a deadline and considering possible time-out errors.  <br /> <br />
-If you came here, already know what foobar is; If not, thanks for your visit :raised_hands:. <br /> <br />
+Solving task on my own just for the enjoyment itself. It was (and still) fun doing it. Coding was made in one shot way, with a deadline and considering possible time-out errors. If you came here, already know what foobar is; If not, thanks for your visit :raised_hands:. <br /> <br />
 
   Let's use ChatGPT shortcut for the explantion step: 
   
