@@ -16,22 +16,10 @@
 
 <div align="center">
 Solving task on my own just for the enjoyment itself. It was (and still) fun doing it.  <br /> <br />
-Solving task on my own just for the enjoyment itself. It was (and still) fun doing it.  <br /> <br />
-If you came here, already know what foobar is; If not, thanks for your visit :raised_hands:. <br /> <br />
-
-  Let's use ChatGPT shortcut for the explantion step: 
-  
-> **_Google's Foobar challenge is an invitation-only coding challenge that Google uses to identify and recruit talented programmers_** (being honest, they probably could offer a sort of internship if you're talent enough; not bad at all, anyway :muscle:)
-
-> **_It typically appears as a pop-up message on a user's screen when they are searching for coding-related terms on Google_** (like a creepy surprise; I thought I was being hacked)
-
-> **_Some people have reported receiving an invitation after searching for specific coding-related terms on Google; or have received an invitation through a referral_** (or looking for how to remove stain from carpet; whichever occurs first)
-
+Coding was made in one shot way, with a deadline and considering possible time-out errors.
 </div>
 
 <div align="justify">
-Solving task on my own just for the enjoyment itself. It was (and still) fun doing it.  <br /> <br />
-Solving task on my own just for the enjoyment itself. It was (and still) fun doing it.  <br /> <br />
 If you came here, already know what foobar is; If not, thanks for your visit :raised_hands:. <br /> <br />
 
   Let's use ChatGPT shortcut for the explantion step: 
@@ -41,7 +29,6 @@ If you came here, already know what foobar is; If not, thanks for your visit :ra
 > **_It typically appears as a pop-up message on a user's screen when they are searching for coding-related terms on Google_** (like a creepy surprise; I thought I was being hacked)
 
 > **_Some people have reported receiving an invitation after searching for specific coding-related terms on Google; or have received an invitation through a referral_** (or looking for how to remove stain from carpet; whichever occurs first)
-
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
