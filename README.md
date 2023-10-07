@@ -7,7 +7,7 @@
   </a>
   <h3 align="center">Junit5 Usage applied to Solved Foobar Functions</h3>
   <p align="center">
-     (a simple and humble personal attempt)
+     (a simple & humble personal attempt)
   </p>
 </div>
 
