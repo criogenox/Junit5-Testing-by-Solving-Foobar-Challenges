@@ -5,7 +5,7 @@
   <a align="center">
     <img src="https://user-images.githubusercontent.com/53323058/273029673-34554996-c27b-46b9-9048-ba459c64f165.png" alt="Logo" width="450">
   </a>
-  <h3 align="center">Google Foobar - Solved Tasks</h3>
+  <h3 align="center">Junit5 Usage applied to Solved Foobar Functions</h3>
   <p align="center">
      (a simple and humble personal attempt)
   </p>
