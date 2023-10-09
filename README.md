@@ -50,7 +50,7 @@ just for the sake
 
 ### Additional info
 
-* If possible, done with pure plain core java; no streams preferred used (let the brain does its job).
+* If possible, done with plain readable java; no streams preferred used (let the brain does its job).
 
 * Added more test cases (besides those originally given), including extreme ones to avoid long execution times.
 
