@@ -25,7 +25,17 @@ Solving task on my own just for the enjoyment itself. It was (and still) fun doi
 
 > **_Some people have reported receiving an invitation after searching for specific coding-related terms on Google; or have received an invitation through a referral_** (or looking for how to remove stain from carpet; whichever occurs first)
 
-
+`@DisplayName`
+`@BeforeEach`
+`@Nested`
+`@Tag`
+`@ParameterizedTest`
+`@CsvSource` (as strings &/or ints)
+`@ValueSource` (as strings or ints)
+`@TestInstance` (PER_CLASS)
+`@MethodSource`
+`@EnabledIf` (as custom conditional)
+          
 just for the sake
 </div>
 
