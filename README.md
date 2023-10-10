@@ -44,7 +44,7 @@ just for the sake
     <img class="img"src="https://user-images.githubusercontent.com/53323058/230741096-33c1b8ab-1ec8-4364-b877-09aaa7df0fcd.png" alt="Logo" width="160" height="65"/>
   </a> 
   <a href="https://netbeans.apache.org/">
-    <img class="img"src="https://user-images.githubusercontent.com/53323058/273761875-5798c39d-08c2-40a1-a7a7-a4eae90e8c37.png" alt="Logo" width="160" height="65"/>
+    <img class="img"src="https://user-images.githubusercontent.com/53323058/273762946-9cd1d557-5ac2-4dd4-898f-9e0e369ecd72.png" alt="Logo" width="160" height="65"/>
   </a>
 </div>
 
