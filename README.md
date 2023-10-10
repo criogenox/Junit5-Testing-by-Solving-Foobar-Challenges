@@ -35,7 +35,7 @@ just for the sake
 
 <div style="display: flex; flex-direction: row; align=center">
   <a href="https://www.java.com/en/">
-    <img class="img"src="https://user-images.githubusercontent.com/53323058/272988883-80c54b8f-d273-4586-ba77-a94f63748ef0.png" alt="Logo" width="160" height="65"/>
+    <img class="img"src="https://user-images.githubusercontent.com/53323058/273763700-87da1703-8aaa-473a-82a7-595478683383.png" alt="Logo" width="160" height="65"/>
   </a>
   <a href="https://junit.org/junit5/">
     <img class="img"src="https://user-images.githubusercontent.com/53323058/273760886-5dd75127-437e-478e-9cae-3d28e3d89149.png" alt="Logo" width="160" height="65"/>
