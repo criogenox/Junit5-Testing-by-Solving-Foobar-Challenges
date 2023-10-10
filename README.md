@@ -38,7 +38,7 @@ just for the sake
     <img class="img"src="https://user-images.githubusercontent.com/53323058/272988883-80c54b8f-d273-4586-ba77-a94f63748ef0.png" alt="Logo" width="160" height="65"/>
   </a>
   <a href="https://junit.org/junit5/">
-    <img class="img"src="https://user-images.githubusercontent.com/53323058/273760106-d17875cd-fc46-41eb-935d-dbfe2fc8afcd.png" alt="Logo" width="160" height="65"/>
+    <img class="img"src="https://user-images.githubusercontent.com/53323058/273760699-e7525596-88c9-4eae-af8a-189fcb1fa1a7.png" alt="Logo" width="160" height="65"/>
   </a>
   <a href="https://maven.apache.org/">
     <img class="img"src="https://user-images.githubusercontent.com/53323058/230741096-33c1b8ab-1ec8-4364-b877-09aaa7df0fcd.png" alt="Logo" width="160" height="65"/>
