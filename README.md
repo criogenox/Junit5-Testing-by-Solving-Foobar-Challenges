@@ -33,13 +33,13 @@ Solving task on my own just for the enjoyment itself. It was (and still) fun doi
 
 Brief description of key features used in the current repo:
 
-* **Assertions API:** it offers a wide range of assertion methods for validating results.
-* **Parameterized Tests:** a more flexible and expressive approach to writing parameterized tests, with other parameter-related annotations to define different sets of test data.
+* **Assertions API:** offering a wide range of assertion methods for validating results.
+* **Parameterized Tests:** allowing to write repeated testing with different sets of test data.
 * **Conditional Test Execution:** concept of conditional test execution based on custom or predefined conditions.
-* **Test Instance Lifecycle:** giving more control over the lifecycle of test instances, enabling more control over resource management and test isolation.
-* **Test Execution Order:** allowing to define custom test execution orders by needs.
-* **Nested Tests:** enabling to group related tests within a same test class, structuring methods in a hierarchical manner.
-* **Tagging and Filtering:** enabling the capability for organizing and running subsets of tests based on different criteria, through categorizing and selectively execute them based on tags.
+* **Test Instance Lifecycle:** giving more control over resource management and test isolation.
+* **Test Execution Order:** letting to define custom test execution orders by needs.
+* **Nested Tests:** permitting to group related tests within a same test class, structuring methods in a hierarchical manner.
+* **Tagging and Filtering:** enabling the capability of selectively execution based on categorizing.
 
 </div>
 
