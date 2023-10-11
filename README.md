@@ -17,6 +17,8 @@
 <div align="justify">
 Solving task on my own just for the enjoyment itself. It was (and still) fun doing it. Coding was made in one shot way, with a deadline and considering possible time-out errors. If you came here, already know what foobar is; If not, thanks for your visit :raised_hands:. <br /> <br />
 
+### Junit5 Implementation Details 
+
   Let's use ChatGPT shortcut for the explantion step: 
   
 > **_Google's Foobar challenge is an invitation-only coding challenge that Google uses to identify and recruit talented programmers_** (being honest, they probably could offer a sort of internship if you're talent enough; not bad at all, anyway :muscle:)
@@ -25,33 +27,19 @@ Solving task on my own just for the enjoyment itself. It was (and still) fun doi
 
 > **_Some people have reported receiving an invitation after searching for specific coding-related terms on Google; or have received an invitation through a referral_** (or looking for how to remove stain from carpet; whichever occurs first)
 
-
-
-
-
+### Junit5 Implementation Details 
 
    JUnit 5 is a popular open-source testing framework for Java applications. JUnit 5 provides several enhancements and new features making it more powerful and flexible for writing and executing tests.
 
 Key features used in current repo:
 
-* **Assertions API:**: it offers a wide range of assertion methods for validating results
-* **Parameterized Tests:**: a more flexible and expressive approach to writing parameterized tests, with other parameter-related annotations to define different sets of test data.
-* **Conditional Test Execution:**: concept of conditional test execution based on custom or predefined conditions.
-* **Test Instance Lifecycle:**: giving more control over the lifecycle of test instances, enabling more control over resource management and test isolation.
-* **Test Execution Order:**: allowing to define custom test execution orders by needs.
+* **Assertions API:** it offers a wide range of assertion methods for validating results
+* **Parameterized Tests:** a more flexible and expressive approach to writing parameterized tests, with other parameter-related annotations to define different sets of test data.
+* **Conditional Test Execution:** concept of conditional test execution based on custom or predefined conditions.
+* **Test Instance Lifecycle:** giving more control over the lifecycle of test instances, enabling more control over resource management and test isolation.
+* **Test Execution Order:** allowing to define custom test execution orders by needs.
 * **Nested Tests:** JUnit 5 supports nested tests, allowing you to group related tests within a test class. You can use the `@Nested` annotation to define nested test classes, which can have their own lifecycle methods and annotations. This feature helps in organizing and structuring tests in a more hierarchical manner.
-* **Tagging and Filtering:**: enabling the capability for organizing and running subsets of tests based on different criteria, through categorizing and selectively execute them based on tags.
-
-
-
-
-
-
-
-
-
-These are just a few more features and improvements in JUnit 5. The framework is designed to provide developers with powerful and flexible testing capabilities, making it easier to write and execute tests for Java applications.
-
+* **Tagging and Filtering:** enabling the capability for organizing and running subsets of tests based on different criteria, through categorizing and selectively execute them based on tags.
 
 </div>
 
