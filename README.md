@@ -78,9 +78,6 @@ Solving task on my own just for the enjoyment itself. It was (and still) fun doi
 ## Implementation Details 
 
 ### Foobar challanges
-
-#### Roadmap (in no particular order)
-
 <div align="justify">
 |  Test  |           Challenge name            |       Input data type        | Output data type | Testing Status |
 |:------:|:-----------------------------------:|:----------------------------:|:-----------------:|:-------------:|
@@ -91,9 +88,10 @@ Solving task on my own just for the enjoyment itself. It was (and still) fun doi
 |   [x]  |  `Please Pass The Coded Messages`   |            int[ ]            |      String       |       ✔       |
 |   [x]  |              `Re-ID`                |              int             |      String       |       ✔       |
 |   [x]  |         `Zombit Infection`          |   int[ ][ ], int, ,int, int  |     int[ ][ ]     |       ✔       |
+</div>
 
 ### Junit 
-
+<div align="justify">
 > **Utilized Annotations**
 * `@Nested` (allowing to test several outer classes (challenges), actually inside the same main test class).
 * `@ParameterizedTest` (addressing the run of same test passing several groups of parameters).
