@@ -117,7 +117,7 @@ The initial aim was solving tasks on my own (got the invitation, anyway) just fo
 ### Screenshots of tests runs results
 
 <p align="center" width="100%">
-    <img width="45%" src="https://user-images.githubusercontent.com/53323058/274168169-8730a83b-ad94-475c-8b55-6b16593b94ab.png">
+    <img width="45%" src="https://user-images.githubusercontent.com/53323058/274168459-a64662af-d4c9-486d-a80f-f41475621f02.png">
     <img width="45.8%" src="https://user-images.githubusercontent.com/53323058/274165423-e0a6d50a-e1da-4e8c-baf5-48afceaf0d06.png">
 </p>
   <p align="center" width="100%">
