@@ -77,32 +77,6 @@ Solving task on my own just for the enjoyment itself. It was (and still) fun doi
 <!-- SUMMARY -->
 ## Implementation Details 
 
-### Foobar challanges
-<div align="justify">
-|  Test  |           Challenge name            |       Input data type        | Output data type | Testing Status |
-|:------:|:-----------------------------------:|:----------------------------:|:-----------------:|:-------------:|
-|   1  |         `Square Supplies`           |              int             |        int        |       ✔       |
-|   1  |        `Zombit Monitoring`          |           int[ ][ ]          |        int        |       ✔       |
-|   1  |            `Palindrome`             |              int             |        int        |       ✔       |
-|   1 |         `Zombit Antidote`           |           int[ ][ ]          |        int        |       ✔       |
-|   1  |  `Please Pass The Coded Messages`   |            int[ ]            |      String       |       ✔       |
-|  1  |              `Re-ID`                |              int             |      String       |       ✔       |
-| 1  |         `Zombit Infection`          |   int[ ][ ], int, ,int, int  |     int[ ][ ]     |       ✔       |
-</div>
-
-<div align="justify">
-|Test Case|  Right (W) / Left (W) / Rail Profiles Combination  | Right / Left Wheels' Diameters [mm]| Gauge Track [mm]  | Testing Status |
-|:------:|:------------------------------------------:|:-----------------------------------:|:-----------------:|:---------------:|
-|   E1   |                  A / A / A                 |           920 / 920                 |      1435.16      |       ✔        |
-|   E2   |                  B / B / A                 |               "                     |         "         |       ✔        |
-|   E3   |                  H / H / A                 |               "                     |         "         |       ✔        |
-|   E4   |                  I / I / A                 |               "                     |         "         |       ✔        |
-|   E5   |                  A / A / A                 |           920 / 918                 |         "         |       ✔        |
-|   E6   |                  B / B / A                 |               "                     |         "         |       ✔        |
-|   E7   |                  H / H / A                 |               "                     |         "         |       ✔        |
-|   E8   |                  I / I / A                 |               "                     |         "         |       ✔        |
-|   E9   |                  A / B / A                 |           920 / 920                 |         "         |       ✔        |
-</div>
 ### Junit 
 <div align="justify">
 > **Utilized Annotations**
@@ -126,6 +100,19 @@ Solving task on my own just for the enjoyment itself. It was (and still) fun doi
                                 
 </div>
 
+### Foobar challanges
+<div align="justify">
+|  Test  |           Challenge name            |       Input data type        | Output data type | Testing Status |
+|:------:|:-----------------------------------:|:----------------------------:|:-----------------:|:-------------:|
+|   1  |         `Square Supplies`           |              int             |        int        |       ✔       |
+|   1  |        `Zombit Monitoring`          |           int[ ][ ]          |        int        |       ✔       |
+|   1  |            `Palindrome`             |              int             |        int        |       ✔       |
+|   1 |         `Zombit Antidote`           |           int[ ][ ]          |        int        |       ✔       |
+|   1  |  `Please Pass The Coded Messages`   |            int[ ]            |      String       |       ✔       |
+|  1  |              `Re-ID`                |              int             |      String       |       ✔       |
+| 1  |         `Zombit Infection`          |   int[ ][ ], int, ,int, int  |     int[ ][ ]     |       ✔       |
+
+</div>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
