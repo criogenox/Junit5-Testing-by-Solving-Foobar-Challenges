@@ -75,7 +75,21 @@ Solving task on my own just for the enjoyment itself. It was (and still) fun doi
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SUMMARY -->
-## Junit5 Implementation Details 
+## Implementation Details 
+
+### Foobar challanges
+
+#### Roadmap (in no particular order)
+
+- [x] `Square Supplies`
+- [x] `Zombit Monitoring`
+- [x] `Palindrome`
+- [x] `Zombit Antidote`
+- [x] `Please Pass The Coded Messages`
+- [x] `Re-ID`
+- [x] `Zombit Infection`
+
+### Junit 
 
 <div align="justify">
 
@@ -99,19 +113,6 @@ Solving task on my own just for the enjoyment itself. It was (and still) fun doi
 * `arguments.of(Object ...)` (input source; as multidimensional arrays of ints or strings)
                                 
 </div>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ROADMAP -->
-## Roadmap (in no particular order)
-
-- [x] `Square Supplies`
-- [x] `Zombit Monitoring`
-- [x] `Palindrome`
-- [x] `Zombit Antidote`
-- [x] `Please Pass The Coded Messages`
-- [x] `Re-ID`
-- [x] `Zombit Infection`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
