@@ -87,8 +87,9 @@ just for the sake
 > `@MethodSource` (arguments source, as multidimensional arrays of int).
 > 
 > `@EnabledIf` (as custom conditional; a failed test skip the next method in the same test class).
+> `@Order` (just for the sake of completeness, highly discouraged; switching the timeout test execution for the last)
           
-just for the sake
+
 </div>
 
 
