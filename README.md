@@ -45,7 +45,7 @@ The initial aim was solving tasks on my own (got the invitation, anyway) just fo
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Built With
+### Built with
 
 <div style="display: flex; flex-direction: row; align=center">
   <a href="https://www.java.com/en/">
@@ -75,7 +75,7 @@ The initial aim was solving tasks on my own (got the invitation, anyway) just fo
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SUMMARY -->
-## Implementation Details 
+## Implementation details 
 
 ### Selected foobar challanges
 <div align="justify">
@@ -94,7 +94,7 @@ The initial aim was solving tasks on my own (got the invitation, anyway) just fo
 ### Junit5 version 
 <div align="justify">
   
-> **Used Annotations**
+> **Used annotations**
 * `@Nested` (allowing to test several outer classes (challenges), actually inside the same main test class).
 * `@ParameterizedTest` (addressing the run of same test passing several groups of parameters).
 * `@CsvSource` (arguments source, as strings &/or ints).
@@ -106,7 +106,7 @@ The initial aim was solving tasks on my own (got the invitation, anyway) just fo
 * `@BeforeEach` (displaying on screen the timestamp & test info).
 * `@Tag` (identifies each test class for display info purposes).
 
-> **Implemented Utility methods**
+> **Implemented utility methods**
 * `assertEquals` (checking against expected; input as int || String)
 * `assertArrayEquals` (checking against expected; input as multidimensional arrays, int[ ][ ])
 * `assertTimeout` (seeking for timeout errors)
