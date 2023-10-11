@@ -26,15 +26,24 @@ Solving task on my own just for the enjoyment itself. It was (and still) fun doi
 > **_Some people have reported receiving an invitation after searching for specific coding-related terms on Google; or have received an invitation through a referral_** (or looking for how to remove stain from carpet; whichever occurs first)
 
 > `@DisplayName` (on classes & methods).
+> 
 > `@BeforeEach` (displaying on screen the timestamp & test info).
+> 
 > `@Nested` (allowing to test several outer classes (challenges), actually inside the same main test class).
-> `@Tag` (identifies each test class for display info purposes)
+> 
+> `@Tag` (identifies each test class for display info purposes).
+> 
 > `@ParameterizedTest`address the need to perform the same test passing different groups of parameters.
-> `@CsvSource` (arguments source, as strings &/or ints)
-> `@ValueSource` (arguments source, as strings or ints)
-> `@TestInstance` (PER_CLASS; enabling one single instance of the test class reusable for all method.)
-> `@MethodSource` (arguments source, as int[][] || int[] || int)
-> `@EnabledIf` (as custom conditional; a failed test skip the next method in the same test class)
+> 
+> `@CsvSource` (arguments source, as strings &/or ints).
+> 
+> `@ValueSource` (arguments source, as strings or ints).
+> 
+> `@TestInstance` (PER_CLASS; enabling one single instance of the test class reusable for all method).
+> 
+> `@MethodSource` (arguments source, as int[][] || int[] || int).
+> 
+> `@EnabledIf` (as custom conditional; a failed test skip the next method in the same test class).
           
 just for the sake
 </div>
