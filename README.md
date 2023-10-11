@@ -16,8 +16,8 @@
 
 <div align="justify">
 Solving task on my own just for the enjoyment itself. It was (and still) fun doing it. Coding was made in one shot way, with a deadline and considering possible time-out errors. If you came here, already know what foobar is; If not, thanks for your visit :raised_hands:. <br /> <br />
-
-### Junit5 Implementation Details 
+  
+### Foobar challenge
 
   Let's use ChatGPT shortcut for the explantion step: 
   
@@ -27,7 +27,7 @@ Solving task on my own just for the enjoyment itself. It was (and still) fun doi
 
 > **_Some people have reported receiving an invitation after searching for specific coding-related terms on Google; or have received an invitation through a referral_** (or looking for how to remove stain from carpet; whichever occurs first)
 
-### Junit5 Implementation Details 
+### Junit5 framework
 
    JUnit 5 is a popular open-source testing framework for Java applications. JUnit 5 provides several enhancements and new features making it more powerful and flexible for writing and executing tests.
 
