@@ -105,7 +105,7 @@ The initial aim was solving tasks on my own (got the invitation, anyway) just fo
 * `@Order` (just for the sake of completeness, highly discouraged; switching the timeout test execution for the last)
 * `@DisplayName` (on classes & methods).
   
-<img align="right" src="https://user-images.githubusercontent.com/53323058/274108966-812318a8-a7d6-454b-8647-d98600801e55.png" width="400">
+<img align="right" src="https://user-images.githubusercontent.com/53323058/274108966-812318a8-a7d6-454b-8647-d98600801e55.png" width="350">
 
 * `@EnabledIf` (allowing to skip a test if a true condition is not satisfied).
 * `@BeforeEach` (displaying on screen the timestamp & test info).
