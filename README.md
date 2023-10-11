@@ -91,10 +91,10 @@ The initial aim was solving tasks on my own just for the enjoyment itself, but i
 |  7     |         `Zombit Infection`          |   int[ ][ ], int, ,int, int  |     int[ ][ ]     |       ✔       |
 </div>
 
-### Junit 
+### Junit5 version 
 <div align="justify">
   
-> **Utilized Annotations**
+> **Used Annotations**
 * `@Nested` (allowing to test several outer classes (challenges), actually inside the same main test class).
 * `@ParameterizedTest` (addressing the run of same test passing several groups of parameters).
 * `@CsvSource` (arguments source, as strings &/or ints).
