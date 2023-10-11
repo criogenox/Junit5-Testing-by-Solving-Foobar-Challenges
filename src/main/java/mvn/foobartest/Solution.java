@@ -255,14 +255,14 @@ Output:
             // overlapping check-up
             for (int i = j + 1; i < arr.length; i++) {
                 // 
-                if (arr[i][0] <= arr[j][0] && arr[i][1] >= arr[j][1]) {  //   |---|    j
-                    // |-------|  i
+                if (arr[i][0] <= arr[j][0] && arr[i][1] >= arr[j][1]) { //   |---|    j
+                                                                        // |-------|  i
                     arr[j][0] = -1;
                     break; // set -1 to dropped j row
                 }
                 //
-                if (arr[i][0] >= arr[j][0] && arr[i][1] <= arr[j][1]) {  // |-------|  j
-                    //   |---|    i
+                if (arr[i][0] >= arr[j][0] && arr[i][1] <= arr[j][1]) { // |-------|  j
+                                                                        //   |---|    i
                     arr[i][0] = arr[j][0];
                     arr[i][1] = arr[j][1]; // keeping i row
                     arr[j][0] = -1;
@@ -270,16 +270,16 @@ Output:
                 }
                 //
                 if (arr[i][0] >= arr[j][0] && arr[i][0] <= arr[j][1]
-                        && arr[i][1] > arr[j][1]) {                             // |---|      j
-                    //   |------| i    
+                        && arr[i][1] > arr[j][1]) { // |---|      j
+                                                    //   |------| i    
                     arr[i][0] = arr[j][0];  // keeping i row                                                                               
                     arr[j][0] = -1;
                     break; // set -1 to dropped j row
                 }
                 //
                 if (arr[i][0] < arr[j][0] && arr[i][1] >= arr[j][0]
-                        && arr[i][1] < arr[j][1]) {                             //      |---| j
-                    // |------|   i      
+                        && arr[i][1] < arr[j][1]) { //      |---| j
+                                                    // |------|   i      
                     arr[i][1] = arr[j][1];  // keeping i row                                                                               
                     arr[j][0] = -1;
                     break; // set -1 to dropped j row   
@@ -376,7 +376,7 @@ Output:
                 while (j == 0) {
                     if ((arr[i][0] >= arr[j][1] || arr[i][1] <= arr[j][0])) {
                         idx.add(i, -1);   //     |---|     j
-                        count++;                     // |---|   |---| i
+                        count++;          // |---|   |---| i
                         break;
                     }
                     idx.add(i, 0);
@@ -387,7 +387,7 @@ Output:
                     // duplicate meeting deletion
                     if ((arr[i][0] == arr[j][0] && arr[i][1] == arr[j][1])
                             && idx.get(j) == -1) {  //     |---|     j
-                        //     |---|     i                                                     
+                                                    //     |---|     i                                                     
                         count--;
                         break;
                     }
