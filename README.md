@@ -7,7 +7,7 @@
   </a>
   <h3 align="center">Junit5 Usage applied to Solved Foobar Functions</h3>
   <p align="center">
-     (a simple & humble personal attempt)
+     (a straightforward personal attempt)
   </p>
 </div>
 
@@ -50,13 +50,9 @@ just for the sake
 ### Additional info
 
 * If possible, done with plain readable java; no streams preferred used (let the brain does its job).
-
 * Added more test cases (besides those originally given), including extreme ones to avoid long execution times.
-
 * For a more in-depth understanding of the implemented code, as many comments as possible have been included.
-
 * Each task constructor was renamed using suffixes (ex: solution1, solution2 and so forth) to include them in a single class.
-
 * No intention of winning the code-of-the-year championship; It can be improved all what was done, be my guest.
  
 </div>
