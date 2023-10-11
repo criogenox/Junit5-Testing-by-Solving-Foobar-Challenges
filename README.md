@@ -24,7 +24,52 @@ Solving task on my own just for the enjoyment itself. It was (and still) fun doi
 > **_It typically appears as a pop-up message on a user's screen when they are searching for coding-related terms on Google_** (like a creepy surprise; I thought I was being hacked)
 
 > **_Some people have reported receiving an invitation after searching for specific coding-related terms on Google; or have received an invitation through a referral_** (or looking for how to remove stain from carpet; whichever occurs first)
-          
+
+
+
+
+
+
+   JUnit 5 is a popular open-source testing framework for Java applications. JUnit 5 provides several enhancements and new features making it more powerful and flexible for writing and executing tests.
+
+Some key features of JUnit 5 include:
+
+1. **Modular and Extensible Architecture:** JUnit 5 is designed with a modular architecture, allowing you to use only the components you need. It consists of three main modules: JUnit Platform, JUnit Jupiter, and JUnit Vintage. The modular architecture enables better extensibility and integration with other testing and build tools.
+
+2. **JUnit Jupiter:** JUnit Jupiter is the programming and extension model for writing tests and extensions in JUnit 5. It introduces new annotations, such as `@Test`, `@BeforeEach`, `@AfterEach`, `@BeforeAll`, and `@AfterAll`, which provide more flexibility and control over test execution. Additionally, JUnit Jupiter supports parameterized tests, nested tests, and dynamic tests.
+
+3. **Assertions API:** JUnit 5 provides an improved assertions API with the `org.junit.jupiter.api.Assertions` class. It offers a wide range of assertion methods for validating expected results, including simple equality checks, collection assertions, exception assertions, and more. The new API provides better readability and error reporting compared to previous versions of JUnit.
+
+4. **Parameterized Tests:** JUnit 5 introduces a more flexible and expressive approach to writing parameterized tests. You can now use the `@ParameterizedTest` annotation along with other parameter-related annotations, such as `@ValueSource`, `@EnumSource`, `@CsvSource`, and `@MethodSource`, to define different sets of test data.
+
+3. **Parameterized Tests:** JUnit 5 offers enhanced support for parameterized tests. You can use the `@ParameterizedTest` annotation along with other parameter-related annotations, such as `@ValueSource`, `@EnumSource`, `@CsvSource`, and `@MethodSource`, to define different sets of test data. This allows you to run the same test logic with different inputs and expected outcomes, reducing code duplication.
+   
+6. **Conditional Test Execution:** JUnit 5 introduces the concept of conditional test execution through the `@Enabled` and `@Disabled` annotations. You can use these annotations to enable or disable tests based on custom conditions, system properties, environment variables, or other factors.
+
+5. **Conditional Test Execution:** JUnit 5 introduces conditional test execution based on various conditions. You can use the `@EnabledOnOs`, `@EnabledIfSystemProperty`, `@EnabledIfEnvironmentVariable`, and other conditional annotations to control whether a test should be executed based on runtime conditions. This feature is useful when you need to run tests selectively based on the environment or specific system configurations.
+
+Certainly! Here are some additional features and improvements in JUnit 5:
+
+1. **Test Instance Lifecycle:** JUnit 5 introduces new test instance lifecycle modes, allowing you to control how test instances are created and managed. The supported modes include `PER_CLASS`, `PER_METHOD`, and `PER_CLASS_AND_METHOD`, giving you flexibility in managing resources and dependencies for your tests.
+
+2. **Test Execution Order:** JUnit 5 provides more control over the order in which tests are executed. You can specify the order using the `@TestMethodOrder` annotation with different strategies, such as `MethodOrderer.Random`, `MethodOrderer.Alphanumeric`, and more. Additionally, JUnit 5 allows you to define custom test execution orders by implementing the `TestOrderer` interface.
+
+
+4. **Nested Tests:** JUnit 5 supports nested tests, allowing you to group related tests within a test class. You can use the `@Nested` annotation to define nested test classes, which can have their own lifecycle methods and annotations. This feature helps in organizing and structuring tests in a more hierarchical manner.
+
+
+1. **Tagging and Filtering:** JUnit 5 introduces tagging and filtering features that allow you to categorize tests and selectively execute them based on tags. You can assign tags to tests using the `@Tag` annotation and then use the `--include-tag` and `--exclude-tag` options to include or exclude specific tags during test execution. This capability is helpful for organizing and running subsets of tests based on different criteria.
+
+
+4. **Test Instance Lifecycle:** JUnit 5 provides more control over the lifecycle of test instances. You can specify the lifecycle mode for a test class using the `@TestInstance` annotation with values like `TestInstance.Lifecycle.PER_CLASS` or `TestInstance.Lifecycle.PER_METHOD`. This allows you to control how test instances are created and reused, enabling more fine-grained control over resource management and test isolation.
+
+
+
+
+
+These are just a few more features and improvements in JUnit 5. The framework is designed to provide developers with powerful and flexible testing capabilities, making it easier to write and execute tests for Java applications.
+
+
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
