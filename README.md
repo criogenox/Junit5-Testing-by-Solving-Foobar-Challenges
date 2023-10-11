@@ -93,7 +93,7 @@ The initial aim was solving tasks on my own (got the invitation, anyway) just fo
 
 ### Junit5 version 
 <div align="justify">
-<img align="right" src="https://user-images.githubusercontent.com/53323058/274106732-be44049b-5fa3-4369-94a3-455fd5464cbc.png" width="350">
+  <img align="right" src="https://user-images.githubusercontent.com/53323058/274106732-be44049b-5fa3-4369-94a3-455fd5464cbc.png" width="350">
   
 > **Used annotations**
 * `@Nested` (allowing to test several outer classes (challenges), actually inside the same main test class).
@@ -102,13 +102,13 @@ The initial aim was solving tasks on my own (got the invitation, anyway) just fo
 * `@ValueSource` (arguments source, as strings or ints).
 * `@MethodSource` (arguments source, as multidimensional arrays of ints).
 * `@TestInstance` (PER_CLASS; enabling one single instance of the test class reusable for all method).
-* `@Order` (just for the sake of completeness, highly discouraged; switching the timeout test execution for the last)
 
-<img align="right" src="https://user-images.githubusercontent.com/53323058/274108966-812318a8-a7d6-454b-8647-d98600801e55.png" width="350">
-
-* `@DisplayName` (on classes & methods).
-* `@EnabledIf` (allowing to skip a test if a true condition is not satisfied).
-* `@BeforeEach` (displaying on screen the timestamp & test info).
+  <img align="right" src="https://user-images.githubusercontent.com/53323058/274108966-812318a8-a7d6-454b-8647-d98600801e55.png" width="350">
+  
+* `@Order` (just for the sake of completeness, highly discouraged; switching the timeout test execution for the last).
+* `@DisplayName` (on classes & methods; see 1st figure).
+* `@EnabledIf` (allowing to skip a test if a true condition is not satisfied; see 2nd figure).
+* `@BeforeEach` (displaying on screen the timestamp & test info; see bottom figure).
 * `@Tag` (identifies each test class for display info purposes).
 
 > **Implemented utility methods**
@@ -118,7 +118,7 @@ The initial aim was solving tasks on my own (got the invitation, anyway) just fo
 * `assertTrue` (rejecting null & strings, including empty values)
 * `arguments.of(Object ...)` (input source; as multidimensional arrays of ints or strings)
   
-<img align="center" src="https://user-images.githubusercontent.com/53323058/274107022-c3129d5e-f51d-4b1c-8e23-f9f64099e973.png" width="700">                              
+  <img align="center" src="https://user-images.githubusercontent.com/53323058/274107022-c3129d5e-f51d-4b1c-8e23-f9f64099e973.png" width="700">                              
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
