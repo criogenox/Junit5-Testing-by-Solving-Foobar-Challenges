@@ -118,10 +118,10 @@ The initial aim was solving tasks on my own (got the invitation, anyway) just fo
 * `assertTrue` (rejecting null & strings, including empty values).
 * `arguments.of(Object ...)` (input source; as multidimensional arrays of ints or strings).
 
-<div style="text-align:center">
-  <<img align="justify" src="https://user-images.githubusercontent.com/53323058/274107022-c3129d5e-f51d-4b1c-8e23-f9f64099e973.png" width="800"> />
-  </div>
-               
+  <p align="center" width="100%">
+    <img width="33%" src="[https://i.stack.imgur.com/RJj4x.png](https://user-images.githubusercontent.com/53323058/274107022-c3129d5e-f51d-4b1c-8e23-f9f64099e973.png" width="800)">
+</p>
+           
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
