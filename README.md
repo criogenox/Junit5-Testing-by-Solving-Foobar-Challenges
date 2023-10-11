@@ -69,22 +69,18 @@ just for the sake
 <div align="justify">
 
 > **Annotations**
-* `@DisplayName` (on classes & methods).
-* `@BeforeEach` (displaying on screen the timestamp & test info).
 * `@Nested` (allowing to test several outer classes (challenges), actually inside the same main test class).
-* `@Tag` (identifies each test class for display info purposes).
 * `@ParameterizedTest` (addressing the run of same test passing several groups of parameters).
 * `@CsvSource` (arguments source, as strings &/or ints).
 * `@ValueSource` (arguments source, as strings or ints).
-* `@TestInstance` (PER_CLASS; enabling one single instance of the test class reusable for all method).
 * `@MethodSource` (arguments source, as multidimensional arrays of int).
-* `@EnabledIf` (as custom conditional; a failed test skip the next method in the same test class).
+* `@TestInstance` (PER_CLASS; enabling one single instance of the test class reusable for all method).
 * `@Order` (just for the sake of completeness, highly discouraged; switching the timeout test execution for the last)
-          
+* `@DisplayName` (on classes & methods).
+* `@BeforeEach` (displaying on screen the timestamp & test info).
+* `@Tag` (identifies each test class for display info purposes).
 
 </div>
-
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
