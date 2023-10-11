@@ -82,13 +82,15 @@ Solving task on my own just for the enjoyment itself. It was (and still) fun doi
 #### Roadmap (in no particular order)
 
 <div align="justify">
-- [x] `Square Supplies`
-- [x] `Zombit Monitoring`
-- [x] `Palindrome`
-- [x] `Zombit Antidote`
-- [x] `Please Pass The Coded Messages`
-- [x] `Re-ID`
-- [x] `Zombit Infection`
+|  Test  |           Challenge name            |       Input data type        | Output data type | Testing Status |
+|:------:|:-----------------------------------:|:----------------------------:|:-----------------:|:-------------:|
+|   [1]  |         `Square Supplies`           |              int             |        int        |       ✔       |
+|   [x]  |        `Zombit Monitoring`          |           int[ ][ ]          |        int        |       ✔       |
+|   [x]  |            `Palindrome`             |              int             |        int        |       ✔       |
+|   [x]  |         `Zombit Antidote`           |           int[ ][ ]          |        int        |       ✔       |
+|   [x]  |  `Please Pass The Coded Messages`   |            int[ ]            |      String       |       ✔       |
+|   [x]  |              `Re-ID`                |              int             |      String       |       ✔       |
+|   [x]  |         `Zombit Infection`          |   int[ ][ ], int, ,int, int  |     int[ ][ ]     |       ✔       |
 
 ### Junit 
 
