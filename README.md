@@ -93,6 +93,7 @@ The initial aim was solving tasks on my own (got the invitation, anyway) just fo
 
 ### Junit5 version 
 <div align="justify">
+<img align="right" src="https://user-images.githubusercontent.com/53323058/274106732-be44049b-5fa3-4369-94a3-455fd5464cbc.png" width="250">
   
 > **Used annotations**
 * `@Nested` (allowing to test several outer classes (challenges), actually inside the same main test class).
@@ -103,6 +104,7 @@ The initial aim was solving tasks on my own (got the invitation, anyway) just fo
 * `@TestInstance` (PER_CLASS; enabling one single instance of the test class reusable for all method).
 * `@Order` (just for the sake of completeness, highly discouraged; switching the timeout test execution for the last)
 * `@DisplayName` (on classes & methods).
+* `@EnabledIf` (allowing to skip a test if a true condition is not satisfied).
 * `@BeforeEach` (displaying on screen the timestamp & test info).
 * `@Tag` (identifies each test class for display info purposes).
 
@@ -117,7 +119,7 @@ The initial aim was solving tasks on my own (got the invitation, anyway) just fo
 
 ### Screenshots of tests runs
 <div align="justify">
-<img align="right" src="https://user-images.githubusercontent.com/53323058/274106732-be44049b-5fa3-4369-94a3-455fd5464cbc.png" width="250">
+
 
 <img align="left" src="https://user-images.githubusercontent.com/53323058/274108966-812318a8-a7d6-454b-8647-d98600801e55.png" width="250">
 
