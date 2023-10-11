@@ -32,9 +32,9 @@ Solving task on my own just for the enjoyment itself. It was (and still) fun doi
 > `@ParameterizedTest`address the need to perform the same test passing different groups of parameters.
 > `@CsvSource` (arguments source, as strings &/or ints)
 > `@ValueSource` (arguments source, as strings or ints)
-> `@TestInstance` (PER_CLASS)
-> `@MethodSource`
-> `@EnabledIf` (as custom conditional)
+> `@TestInstance` (PER_CLASS; enabling one single instance of the test class reusable for all method.)
+> `@MethodSource` (arguments source, as int[][] || int[] || int)
+> `@EnabledIf` (as custom conditional; a failed test skip the next method in the same test class)
           
 just for the sake
 </div>
