@@ -121,7 +121,7 @@ The initial aim was solving tasks on my own (got the invitation, anyway) just fo
     <img width="45.8%" src="https://user-images.githubusercontent.com/53323058/274165423-e0a6d50a-e1da-4e8c-baf5-48afceaf0d06.png">
 </p>
   <p align="center" width="100%">
-    <img width="90.8%" src="https://user-images.githubusercontent.com/53323058/274107022-c3129d5e-f51d-4b1c-8e23-f9f64099e973.png">
+    <img width="92%" src="https://user-images.githubusercontent.com/53323058/274107022-c3129d5e-f51d-4b1c-8e23-f9f64099e973.png">
 </p>
         
 </div>
