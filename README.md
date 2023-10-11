@@ -81,6 +81,7 @@ Solving task on my own just for the enjoyment itself. It was (and still) fun doi
 
 #### Roadmap (in no particular order)
 
+<div align="justify">
 - [x] `Square Supplies`
 - [x] `Zombit Monitoring`
 - [x] `Palindrome`
@@ -89,11 +90,12 @@ Solving task on my own just for the enjoyment itself. It was (and still) fun doi
 - [x] `Re-ID`
 - [x] `Zombit Infection`
 
+</div>
+
 ### Junit 
 
 <div align="justify">
-
-> **Annotations**
+> **Utilized Annotations**
 * `@Nested` (allowing to test several outer classes (challenges), actually inside the same main test class).
 * `@ParameterizedTest` (addressing the run of same test passing several groups of parameters).
 * `@CsvSource` (arguments source, as strings &/or ints).
@@ -105,7 +107,7 @@ Solving task on my own just for the enjoyment itself. It was (and still) fun doi
 * `@BeforeEach` (displaying on screen the timestamp & test info).
 * `@Tag` (identifies each test class for display info purposes).
 
-> **Utility methods**
+> **Implemented Utility methods**
 * `assertEquals` (checking against expected; input as int || String)
 * `assertArrayEquals` (checking against expected; input as multidimensional arrays, int[ ][ ])
 * `assertTimeout` (seeking for timeout errors)
