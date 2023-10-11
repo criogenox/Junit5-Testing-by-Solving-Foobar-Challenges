@@ -107,26 +107,16 @@ The initial aim was solving tasks on my own (got the invitation, anyway) just fo
 * `@EnabledIf` (allowing to skip a test if a true condition is not satisfied).
 * `@BeforeEach` (displaying on screen the timestamp & test info).
 * `@Tag` (identifies each test class for display info purposes).
-<img align="left" src="https://user-images.githubusercontent.com/53323058/274108966-812318a8-a7d6-454b-8647-d98600801e55.png" width="250">
+* 
+<img align="rigth" src="https://user-images.githubusercontent.com/53323058/274108966-812318a8-a7d6-454b-8647-d98600801e55.png" width="500">
+
 > **Implemented utility methods**
 * `assertEquals` (checking against expected; input as int || String)
 * `assertArrayEquals` (checking against expected; input as multidimensional arrays, int[ ][ ])
 * `assertTimeout` (seeking for timeout errors)
 * `assertTrue` (rejecting null & strings, including empty values)
 * `arguments.of(Object ...)` (input source; as multidimensional arrays of ints or strings)
-                                
-</div>
-
-### Screenshots of tests runs
-<div align="justify">
-
-
-
-
-<img align="justify" src="https://user-images.githubusercontent.com/53323058/274107022-c3129d5e-f51d-4b1c-8e23-f9f64099e973.png" width="800">
-
-
-
+<img align="center" src="https://user-images.githubusercontent.com/53323058/274107022-c3129d5e-f51d-4b1c-8e23-f9f64099e973.png" width="700">                              
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
