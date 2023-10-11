@@ -117,11 +117,11 @@ The initial aim was solving tasks on my own (got the invitation, anyway) just fo
 
 ### Screenshots of tests runs
 <div align="justify">
-<img align="right" src="https://user-images.githubusercontent.com/53323058/274106732-be44049b-5fa3-4369-94a3-455fd5464cbc.png" width="500">
+<img align="right" src="https://user-images.githubusercontent.com/53323058/274106732-be44049b-5fa3-4369-94a3-455fd5464cbc.png" width="250">
 
-<img align="left" src="https://user-images.githubusercontent.com/53323058/274108966-812318a8-a7d6-454b-8647-d98600801e55.png" width="500">
+<img align="left" src="https://user-images.githubusercontent.com/53323058/274108966-812318a8-a7d6-454b-8647-d98600801e55.png" width="250">
 
-<img align="center" src="https://user-images.githubusercontent.com/53323058/274107022-c3129d5e-f51d-4b1c-8e23-f9f64099e973.png" width="500">
+<img align="justify" src="https://user-images.githubusercontent.com/53323058/274107022-c3129d5e-f51d-4b1c-8e23-f9f64099e973.png" width="800">
 
 
 
