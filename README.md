@@ -15,7 +15,7 @@
 ## About the repo
 
 <div align="justify">
-Solving task on my own just for the enjoyment itself. It was (and still) fun doing it. Coding was made in one shot way, with a deadline and considering possible time-out errors. If you came here, already know what foobar is; If not, thanks for your visit :raised_hands:.
+The initial aim was solving task on my own just for the enjoyment itself, but it turned into a fun oportunity to play around with JUnit test framework. All coding task were made in one-shot way, with a deadline and considering possible time-out errors. Of course, JUnit tests were implemented in a subsequent stage. So, if you came here already knowing what Foobar & JUnit are, skip the following; if not the case, thanks for your visit :raised_hands:.
   
 ### Foobar challenge
 
