@@ -101,18 +101,14 @@ Solving task on my own just for the enjoyment itself. It was (and still) fun doi
 </div>
 
 ### Foobar challanges
+
 <div align="justify">
+
 |  Test  |           Challenge name            |       Input data type        | Output data type | Testing Status |
 |:------:|:-----------------------------------:|:----------------------------:|:-----------------:|:-------------:|
-|   1  |         `Square Supplies`           |              int             |        int        |       ✔       |
-|   1  |        `Zombit Monitoring`          |           int[ ][ ]          |        int        |       ✔       |
-|   1  |            `Palindrome`             |              int             |        int        |       ✔       |
-|   1 |         `Zombit Antidote`           |           int[ ][ ]          |        int        |       ✔       |
-|   1  |  `Please Pass The Coded Messages`   |            int[ ]            |      String       |       ✔       |
-|  1  |              `Re-ID`                |              int             |      String       |       ✔       |
-| 1  |         `Zombit Infection`          |   int[ ][ ], int, ,int, int  |     int[ ][ ]     |       ✔       |
 
 </div>
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
