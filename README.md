@@ -90,8 +90,6 @@ Solving task on my own just for the enjoyment itself. It was (and still) fun doi
 - [x] `Re-ID`
 - [x] `Zombit Infection`
 
-</div>
-
 ### Junit 
 
 > **Utilized Annotations**
