@@ -93,6 +93,7 @@ Solving task on my own just for the enjoyment itself. It was (and still) fun doi
 
 ### Junit 
 <div align="justify">
+  
 > **Utilized Annotations**
 * `@Nested` (allowing to test several outer classes (challenges), actually inside the same main test class).
 * `@ParameterizedTest` (addressing the run of same test passing several groups of parameters).
