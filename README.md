@@ -116,10 +116,10 @@ The initial aim was solving tasks on my own (got the invitation, anyway) just fo
 
 <p align="center" width="100%">
     <img width="45%" src="https://user-images.githubusercontent.com/53323058/274106732-be44049b-5fa3-4369-94a3-455fd5464cbc.png">
-    <img width="50%" src="https://user-images.githubusercontent.com/53323058/274150653-9046e276-97f1-424b-a351-2fc7ddd0cd37.png">
+    <img width="45%" src="https://user-images.githubusercontent.com/53323058/274165423-e0a6d50a-e1da-4e8c-baf5-48afceaf0d06.png">
 </p>
   <p align="center" width="100%">
-    <img width="80%" src="https://user-images.githubusercontent.com/53323058/274107022-c3129d5e-f51d-4b1c-8e23-f9f64099e973.png">
+    <img width="90%" src="https://user-images.githubusercontent.com/53323058/274107022-c3129d5e-f51d-4b1c-8e23-f9f64099e973.png">
 </p>
         
 </div>
