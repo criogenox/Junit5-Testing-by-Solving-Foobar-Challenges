@@ -64,11 +64,11 @@ The initial aim was solving tasks on my own just for the enjoyment itself (got t
 
 ### Additional info
 
-* If possible, done with plain readable java; no streams preferred used (let the brain does its job).
+* If possible, done with plain readable java; no streams preferred used (no magic needed here, please).
+* Each task constructor was renamed using suffixes (ex: solution1, solution2 and so forth) to include them in a single class.
 * Added more test cases (besides those originally given), including extreme ones to avoid long execution times.
 * For a more in-depth understanding of the implemented code, as many comments as possible have been included.
-* Each task constructor was renamed using suffixes (ex: solution1, solution2 and so forth) to include them in a single class.
-* No intention of winning the code-of-the-year championship; It can be improved all what was done, be my guest.
+* No intention of winning the code-of-the-year championship; readability was weighted over micro-optimization.
  
 </div>
 
