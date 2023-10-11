@@ -103,10 +103,10 @@ The initial aim was solving tasks on my own (got the invitation, anyway) just fo
 * `@MethodSource` (arguments source, as multidimensional arrays of ints).
 * `@TestInstance` (PER_CLASS; enabling one single instance of the test class reusable for all method).
 * `@Order` (just for the sake of completeness, highly discouraged; switching the timeout test execution for the last)
-* `@DisplayName` (on classes & methods).
-  
+
 <img align="right" src="https://user-images.githubusercontent.com/53323058/274108966-812318a8-a7d6-454b-8647-d98600801e55.png" width="350">
 
+* `@DisplayName` (on classes & methods).
 * `@EnabledIf` (allowing to skip a test if a true condition is not satisfied).
 * `@BeforeEach` (displaying on screen the timestamp & test info).
 * `@Tag` (identifies each test class for display info purposes).
