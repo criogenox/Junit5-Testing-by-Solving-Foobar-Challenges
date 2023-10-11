@@ -115,8 +115,8 @@ The initial aim was solving tasks on my own (got the invitation, anyway) just fo
 * `arguments.of(Object ...)` (input source; as multidimensional arrays of ints or strings).
 
 <p align="center" width="100%">
-    <img width="45%" src="https://user-images.githubusercontent.com/53323058/274106732-be44049b-5fa3-4369-94a3-455fd5464cbc.png">
-    <img width="45%" src="https://user-images.githubusercontent.com/53323058/274108966-812318a8-a7d6-454b-8647-d98600801e55.png">
+    <img width="40%" src="https://user-images.githubusercontent.com/53323058/274106732-be44049b-5fa3-4369-94a3-455fd5464cbc.png">
+    <img width="55%" src="https://user-images.githubusercontent.com/53323058/274150653-9046e276-97f1-424b-a351-2fc7ddd0cd37.png">
 </p>
   <p align="center" width="100%">
     <img width="80%" src="https://user-images.githubusercontent.com/53323058/274107022-c3129d5e-f51d-4b1c-8e23-f9f64099e973.png">
