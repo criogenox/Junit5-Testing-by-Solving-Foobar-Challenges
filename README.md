@@ -106,8 +106,8 @@ Solving task on my own just for the enjoyment itself. It was (and still) fun doi
 
 |  Test  |           Challenge name            |       Input data type        | Output data type | Testing Status |
 |:------:|:-----------------------------------:|:----------------------------:|:-----------------:|:-------------:|
-|   E1   |                  A / A / A                 |           920 / 920                 |      1435.16      |       ✔        |
-
+|   E1   |           A / A / A                 |           920 / 920                 |      1435.16      |       ✔        |
+|  E2   | `Square Supplies`           |              int             |        int        |       ✔       |
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
