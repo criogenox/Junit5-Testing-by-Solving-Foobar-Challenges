@@ -93,7 +93,6 @@ The initial aim was solving tasks on my own (got the invitation, anyway) just fo
 
 ### Junit5 version 
 <div align="justify">
-  <img align="right" src="https://user-images.githubusercontent.com/53323058/274106732-be44049b-5fa3-4369-94a3-455fd5464cbc.png" width="350">
   
 > **Used annotations**
 * `@Nested` (allowing to test several outer classes (challenges), actually inside the same main test class).
@@ -102,9 +101,6 @@ The initial aim was solving tasks on my own (got the invitation, anyway) just fo
 * `@ValueSource` (arguments source, as strings or ints).
 * `@MethodSource` (arguments source, as multidimensional arrays of ints).
 * `@TestInstance` (PER_CLASS; enabling one single instance of the test class reusable for all method).
-
-  <img align="right" src="https://user-images.githubusercontent.com/53323058/274108966-812318a8-a7d6-454b-8647-d98600801e55.png" width="350">
-  
 * `@Order` (just for the sake of completeness, highly discouraged; switching the timeout test execution for the last).
 * `@DisplayName` (on classes & methods; see 1st figure).
 * `@EnabledIf` (allowing to skip a test if a true condition is not satisfied; see 2nd figure).
@@ -118,8 +114,12 @@ The initial aim was solving tasks on my own (got the invitation, anyway) just fo
 * `assertTrue` (rejecting null & strings, including empty values).
 * `arguments.of(Object ...)` (input source; as multidimensional arrays of ints or strings).
 
+<p align="center" width="100%">
+    <img width="45%" src="https://user-images.githubusercontent.com/53323058/274106732-be44049b-5fa3-4369-94a3-455fd5464cbc.png">
+    <img width="45%" src="https://user-images.githubusercontent.com/53323058/274108966-812318a8-a7d6-454b-8647-d98600801e55.png">
+</p>
   <p align="center" width="100%">
-    <img width="80%" src="https://user-images.githubusercontent.com/53323058/274107022-c3129d5e-f51d-4b1c-8e23-f9f64099e973.png" width="800" width="800)">
+    <img width="80%" src="https://user-images.githubusercontent.com/53323058/274107022-c3129d5e-f51d-4b1c-8e23-f9f64099e973.png">
 </p>
         
 </div>
