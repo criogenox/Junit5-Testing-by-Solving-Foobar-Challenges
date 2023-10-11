@@ -15,11 +15,11 @@
 ## About the repo
 
 <div align="justify">
-The initial aim was solving tasks on my own (got the invitation, anyway) just for the enjoyment itself, but it turned into a fun opportunity to play around with JUnit test framework. All coding job was made in one-shot way, with a deadline and considering possible time-out errors. Of course, JUnit tests were implemented in a subsequent stage. So, if you came here already knowing what Foobar & JUnit are, skip the following; if not the case, thanks for your visit :raised_hands:.
+The initial aim was solving tasks on my own just for the enjoyment itself (got the invitation, anyway); however, it all turned into a fun opportunity to play around with JUnit test framework. All coding job was made in one-shot way, with a deadline and considering possible time-out errors. Of course, JUnit tests were implemented in a subsequent stage. So, if you came here already knowing what Foobar & JUnit are, skip the following; if it's not the case, thanks for your visit :raised_hands:.
   
 ### Foobar challenge
 
-  Let's use ChatGPT shortcut for the explantion step: 
+  Let's use a ChatGPT shortcut for this explantion step: 
   
 > **_Google's Foobar challenge is an invitation-only coding challenge that Google uses to identify and recruit talented programmers_** (being honest, they probably could offer a sort of internship if you're talent enough; not bad at all, anyway :muscle:)
 
