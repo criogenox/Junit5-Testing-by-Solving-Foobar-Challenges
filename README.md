@@ -106,7 +106,13 @@ Solving task on my own just for the enjoyment itself. It was (and still) fun doi
 
 |  Test  |           Challenge name            |       Input data type        | Output data type | Testing Status |
 |:------:|:-----------------------------------:|:----------------------------:|:-----------------:|:-------------:|
-|  1  | `Square Supplies`           |              int             |        int        |       ✔       |
+|   1  |         `Square Supplies`           |              int             |        int        |       ✔       |
+|   2  |        `Zombit Monitoring`          |           int[ ][ ]          |        int        |       ✔       |
+|   3  |            `Palindrome`             |              int             |        int        |       ✔       |
+|   4 |         `Zombit Antidote`           |           int[ ][ ]          |        int        |       ✔       |
+|   5  |  `Please Pass The Coded Messages`   |            int[ ]            |      String       |       ✔       |
+|   6 |              `Re-ID`                |              int             |      String       |       ✔       |
+|  7  |         `Zombit Infection`          |   int[ ][ ], int, ,int, int  |     int[ ][ ]     |       ✔       |
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
