@@ -25,7 +25,6 @@ Solving task on my own just for the enjoyment itself. It was (and still) fun doi
 
 > **_Some people have reported receiving an invitation after searching for specific coding-related terms on Google; or have received an invitation through a referral_** (or looking for how to remove stain from carpet; whichever occurs first)
           
-just for the sake
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -69,13 +68,20 @@ just for the sake
 * `@ParameterizedTest` (addressing the run of same test passing several groups of parameters).
 * `@CsvSource` (arguments source, as strings &/or ints).
 * `@ValueSource` (arguments source, as strings or ints).
-* `@MethodSource` (arguments source, as multidimensional arrays of int).
+* `@MethodSource` (arguments source, as multidimensional arrays of ints).
 * `@TestInstance` (PER_CLASS; enabling one single instance of the test class reusable for all method).
 * `@Order` (just for the sake of completeness, highly discouraged; switching the timeout test execution for the last)
 * `@DisplayName` (on classes & methods).
 * `@BeforeEach` (displaying on screen the timestamp & test info).
 * `@Tag` (identifies each test class for display info purposes).
 
+> **Utility methods**
+* `assertEquals` (checking against expected; input as int || String)
+* `assertArrayEquals` (checking against expected; input as multidimensional arrays, int[ ][ ])
+* `assertTimeout` (seeking for timeout errors)
+* `assertTrue` (rejecting null & strings, including empty values)
+* `arguments.of(Object ...)` (input source; as multidimensional arrays of ints or strings)
+                                
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
