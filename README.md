@@ -33,7 +33,7 @@ Solving task on my own just for the enjoyment itself. It was (and still) fun doi
 > 
 > `@Tag` (identifies each test class for display info purposes).
 > 
-> `@ParameterizedTest`address the need to perform the same test passing different groups of parameters.
+> `@ParameterizedTest` (addressing the run of same test passing several groups of parameters).
 > 
 > `@CsvSource` (arguments source, as strings &/or ints).
 > 
