@@ -108,7 +108,7 @@ The initial aim was solving tasks on my own (got the invitation, anyway) just fo
 * `@BeforeEach` (displaying on screen the timestamp & test info).
 * `@Tag` (identifies each test class for display info purposes).
 * 
-<img align="rigth" src="https://user-images.githubusercontent.com/53323058/274108966-812318a8-a7d6-454b-8647-d98600801e55.png" width="500">
+<img align="right" src="https://user-images.githubusercontent.com/53323058/274108966-812318a8-a7d6-454b-8647-d98600801e55.png" width="500">
 
 > **Implemented utility methods**
 * `assertEquals` (checking against expected; input as int || String)
