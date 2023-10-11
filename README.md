@@ -29,9 +29,9 @@ Solving task on my own just for the enjoyment itself. It was (and still) fun doi
 
 ### Junit5 framework
 
-   JUnit 5 is a popular open-source testing framework for Java applications. JUnit 5 provides several enhancements and new features making it more powerful and flexible for writing and executing tests.
+> JUnit 5 is a popular open-source testing framework for Java applications. JUnit 5 provides several enhancements and new features making it more powerful and flexible for writing and executing tests.
 
-Brief description of key features used in the current repo:
+>> Brief description of key features used in the current repo:
 
 * **Assertions API:** offering a wide range of assertion methods for validating results.
 * **Parameterized Tests:** allowing to write repeated testing with different sets of test data.
