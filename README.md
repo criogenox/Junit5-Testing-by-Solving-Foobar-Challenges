@@ -112,13 +112,15 @@ The initial aim was solving tasks on my own (got the invitation, anyway) just fo
 * `@Tag` (identifies each test class for display info purposes).
 
 > **Implemented utility methods**
-* `assertEquals` (checking against expected; input as int || String)
-* `assertArrayEquals` (checking against expected; input as multidimensional arrays, int[ ][ ])
-* `assertTimeout` (seeking for timeout errors)
-* `assertTrue` (rejecting null & strings, including empty values)
-* `arguments.of(Object ...)` (input source; as multidimensional arrays of ints or strings)
-  
-  <img align="justify" src="https://user-images.githubusercontent.com/53323058/274107022-c3129d5e-f51d-4b1c-8e23-f9f64099e973.png" width="800">                              
+* `assertEquals` (checking against expected; input as int || String).
+* `assertArrayEquals` (checking against expected; input as multidimensional arrays, int[ ][ ]).
+* `assertTimeout` (seeking for timeout errors).
+* `assertTrue` (rejecting null & strings, including empty values).
+* `arguments.of(Object ...)` (input source; as multidimensional arrays of ints or strings).
+
+  <p align="center">
+   <img align="justify" src="https://user-images.githubusercontent.com/53323058/274107022-c3129d5e-f51d-4b1c-8e23-f9f64099e973.png" width="800">     
+</p>                     
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
