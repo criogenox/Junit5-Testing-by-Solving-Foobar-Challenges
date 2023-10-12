@@ -49,7 +49,7 @@ Output:
      */
     static String solution1(int n) {
         // elemental prime numbers 2/3/5/7
-        StringBuilder str = new StringBuilder("2357");
+        StringBuilder str = new StringBuilder("2357"); // embracing voodoo magic
         int np = 11;
         // get string at least n+5 long (It can be a little longer)
         while (str.length() < n + 5) {
