@@ -64,7 +64,7 @@ The initial aim was solving tasks on my own just for the enjoyment itself (got t
 
 ### Additional info
 
-* If possible, done with plain readable java; no streams preferred used (no magic needed here, please).
+* Where possible, it has been done with plain readable java; no streams used (clean code, I mean).
 * Each task constructor was renamed using suffixes (ex: solution1, solution2 and so forth) to include them in a single class.
 * Added more test cases (besides those originally given), including extreme ones to avoid long execution times.
 * For a more in-depth understanding of the implemented code, as many comments as possible have been included.
