@@ -49,7 +49,7 @@ Output:
      */
     static String solution1(int n) {
         // elemental prime numbers 2/3/5/7
-        String str = "2357";
+        StringBuilder str = new StringBuilder("2357");
         int np = 11;
         // get string at least n+5 long (It can be a little longer)
         while (str.length() < n + 5) {
@@ -57,7 +57,7 @@ Output:
             if (np % 2 != 0 && np % 3 != 0
                     && np % 5 != 0 && np % 7 != 0) {
                 //
-                str = str + np;
+               str.append(np);
             }
             np++;
         }
@@ -97,26 +97,26 @@ Output:
         //
         while (true) {
             // highest power for b base (included into n at least once)
-            String conv = "";
+            StringBuilder conv = new StringBuilder();
             while (n >= Math.pow(b, p)) {
                 p++;
             }
             // conversion n to b base
             fnum = n / (Math.pow(b, (p - 1)));
             fn = (int) Math.floor(fnum);
-            conv = conv + fn;
+            conv.append(fn);
             res = fnum - fn;
             //
             while (p > 1) {
                 num = b * res;
                 numi = (int) Math.floor(num);
-                conv = conv + numi;
+                conv.append(numi);
                 res = num - numi;
                 p--;
             }
             // palindrome check
             l = conv.length();
-            lh = (int) Math.floor(l / 2);
+            lh = (int) (double) (l / 2);
             pal = 0;
             for (int j = 0; j < lh; j++) {
                 //
@@ -140,7 +140,7 @@ Output:
                            =========================
 With the zombie cure injections ready to go, it's time to start treating our 
 zombified rabbit friends (known as zombits) at our makeshift zombit treatment 
-center. You need to run out really fast to buy some gauze pads but you only have 
+center. You need to run out really fast to buy some gauze pads, but you only have
 30 seconds before you need to be back.
 
 Luckily, the corner store has unlimited gauze pads in squares of all sizes. 
@@ -255,14 +255,14 @@ Output:
             // overlapping check-up
             for (int i = j + 1; i < arr.length; i++) {
                 // 
-                if (arr[i][0] <= arr[j][0] && arr[i][1] >= arr[j][1]) { //   |---|    j
-                                                                        // |-------|  i
+                if (arr[i][0] <= arr[j][0] && arr[i][1] >= arr[j][1]) {  //   |---|    j
+                                                                         // |-------|  i
                     arr[j][0] = -1;
                     break; // set -1 to dropped j row
                 }
                 //
-                if (arr[i][0] >= arr[j][0] && arr[i][1] <= arr[j][1]) { // |-------|  j
-                                                                        //   |---|    i
+                if (arr[i][0] >= arr[j][0] && arr[i][1] <= arr[j][1]) {  // |-------|  j
+                                                                         //   |---|    i
                     arr[i][0] = arr[j][0];
                     arr[i][1] = arr[j][1]; // keeping i row
                     arr[j][0] = -1;
@@ -270,16 +270,16 @@ Output:
                 }
                 //
                 if (arr[i][0] >= arr[j][0] && arr[i][0] <= arr[j][1]
-                        && arr[i][1] > arr[j][1]) { // |---|      j
-                                                    //   |------| i    
+                        && arr[i][1] > arr[j][1]) {                      // |---|
+                                                                         //   |------| i
                     arr[i][0] = arr[j][0];  // keeping i row                                                                               
                     arr[j][0] = -1;
                     break; // set -1 to dropped j row
                 }
                 //
                 if (arr[i][0] < arr[j][0] && arr[i][1] >= arr[j][0]
-                        && arr[i][1] < arr[j][1]) { //      |---| j
-                                                    // |------|   i      
+                        && arr[i][1] < arr[j][1]) {                      //      |---| j
+                                                                         // |------|   i
                     arr[i][1] = arr[j][1];  // keeping i row                                                                               
                     arr[j][0] = -1;
                     break; // set -1 to dropped j row   
@@ -375,8 +375,8 @@ Output:
                 // initial overlapping check-up
                 while (j == 0) {
                     if ((arr[i][0] >= arr[j][1] || arr[i][1] <= arr[j][0])) {
-                        idx.add(i, -1);   //     |---|     j
-                        count++;          // |---|   |---| i
+                        idx.add(i, -1);    //     |---|     j
+                        count++;           // |---|   |---| i
                         break;
                     }
                     idx.add(i, 0);
@@ -387,7 +387,7 @@ Output:
                     // duplicate meeting deletion
                     if ((arr[i][0] == arr[j][0] && arr[i][1] == arr[j][1])
                             && idx.get(j) == -1) {  //     |---|     j
-                                                    //     |---|     i                                                     
+                                                    //     |---|     i
                         count--;
                         break;
                     }
@@ -404,7 +404,7 @@ Output:
         return count;
     }
 
-    static void sort(int dif[], int[][] arr, int n) {
+    static void sort(int[] dif, int[][] arr, int n) {
         // recursive sort algorithm
         if (n <= 1) {                 
             return;
@@ -631,16 +631,16 @@ Output:
             //
             for (int[] permutation : perm) {
                 int numero = 0;
-                String numchar = "";
+                StringBuilder numchar = new StringBuilder();
                 for (int num : permutation) {
                     numero = numero + num;
-                    numchar = numchar + Integer.toString(num);
+                    numchar.append(num);
                 } // test divisibility by 3
                 if (numero % 3 == 0) {
                     if (numero == 0) {
                         numcharf = "0";
                     } else {
-                        numcharf = numchar;
+                        numcharf = numchar.toString();
                     }
                     done = true;
                     break;
@@ -654,7 +654,7 @@ Output:
         return numcharf;
     }
 
-    static void sort(int arr[], int n) {
+    static void sort(int[] arr, int n) {
         // recursive sort algorithm
         if (n <= 1) {
             return;
