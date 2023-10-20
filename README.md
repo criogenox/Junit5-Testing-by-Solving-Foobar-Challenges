@@ -50,12 +50,12 @@ The initial aim was solving tasks on my own just for the enjoyment itself (got t
  <div align="center" width="100%">
   <p>
      <a href="https://www.java.com/en/" style="text-decoration:none">
-    <img class="img"src="https://user-images.githubusercontent.com/53323058/273763700-87da1703-8aaa-473a-82a7-595478683383.png" alt="Logo" width="160" height="65"/>
+    <img width="25%" class="img" src="https://user-images.githubusercontent.com/53323058/273763700-87da1703-8aaa-473a-82a7-595478683383.png" alt="Logo" width="160" height="65"/>
   </a>
     </p>
     <p>
   <a href="https://junit.org/junit5/">
-    <img class="img"src="https://user-images.githubusercontent.com/53323058/273760886-5dd75127-437e-478e-9cae-3d28e3d89149.png" alt="Logo" width="160" height="65"/>
+    <img width="25%" class="img"src="https://user-images.githubusercontent.com/53323058/273760886-5dd75127-437e-478e-9cae-3d28e3d89149.png" alt="Logo" width="160" height="65"/>
   </a>
   </p>
   <p>
