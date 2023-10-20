@@ -122,4 +122,4 @@ The initial aim was solving tasks on my own just for the enjoyment itself (got t
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://user-images.githubusercontent.com/53323058/230575198-fa1acbf4-8f82-4d8e-b245-3979276bc240.png
-[linkedin-url]: https://linkedin.com/in/
+[linkedin-url]: https://linkedin.com/in/criogenox/
