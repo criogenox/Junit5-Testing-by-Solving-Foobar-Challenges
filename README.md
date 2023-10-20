@@ -47,7 +47,7 @@ The initial aim was solving tasks on my own just for the enjoyment itself (got t
 
 ### Built with
 
-[![LinkedIn][java-shield]][java-url]
+[![LinkedIn](https://user-images.githubusercontent.com/53323058/273763700-87da1703-8aaa-473a-82a7-595478683383.png =160x65)[java-url]
 
  <div style="display: flex; flex-direction: row; align=center">
   <a href="https://www.java.com/en/">
