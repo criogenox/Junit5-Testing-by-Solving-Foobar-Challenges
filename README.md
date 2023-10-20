@@ -46,8 +46,8 @@ The initial aim was solving tasks on my own just for the enjoyment itself (got t
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built with
-
-![](https://user-images.githubusercontent.com/53323058/273763700-87da1703-8aaa-473a-82a7-595478683383.png | width=160)[java-url]
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
+![](https://user-images.githubusercontent.com/53323058/273763700-87da1703-8aaa-473a-82a7-595478683383.png | width=160)
 
  <div style="display: flex; flex-direction: row; align=center">
   <a href="https://www.java.com/en/">
