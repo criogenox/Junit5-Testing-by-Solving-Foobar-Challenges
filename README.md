@@ -46,7 +46,8 @@ The initial aim was solving tasks on my own just for the enjoyment itself (got t
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built with
- 
+
+ <div style="display: flex; flex-direction: row; align=center">
   <p align="center" width="100%">
      <a href="https://www.java.com/en/" style="text-decoration:none">
     <img class="img"src="https://user-images.githubusercontent.com/53323058/273763700-87da1703-8aaa-473a-82a7-595478683383.png" alt="Logo" width="160" height="65"/>
@@ -67,8 +68,8 @@ The initial aim was solving tasks on my own just for the enjoyment itself (got t
     <img class="img"src="https://user-images.githubusercontent.com/53323058/273762946-9cd1d557-5ac2-4dd4-898f-9e0e369ecd72.png" alt="Logo" width="160" height="65"/>
   </a>
 </p>
-
-
+</div>
+ 
 ### Additional info
 
 * Where possible, It has been done with plain readable java; no streams used (clean code, I mean).
