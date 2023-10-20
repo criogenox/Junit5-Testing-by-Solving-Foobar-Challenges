@@ -134,5 +134,5 @@ The initial aim was solving tasks on my own just for the enjoyment itself (got t
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://user-images.githubusercontent.com/53323058/230575198-fa1acbf4-8f82-4d8e-b245-3979276bc240.png
 [linkedin-url]: https://linkedin.com/in/
-[java-shield]: <img src="https://user-images.githubusercontent.com/53323058/273763700-87da1703-8aaa-473a-82a7-595478683383.png" alt="Logo" width="160" height="65"/>
+[java-shield]: https://user-images.githubusercontent.com/53323058/273763700-87da1703-8aaa-473a-82a7-595478683383.png
 [java-url]: https://www.java.com/en/
