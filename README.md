@@ -60,10 +60,6 @@ The initial aim was solving tasks on my own just for the enjoyment itself (got t
   <a href="https://netbeans.apache.org/">
     <img src="https://user-images.githubusercontent.com/53323058/273762946-9cd1d557-5ac2-4dd4-898f-9e0e369ecd72.png" alt="Logo" width="160" height="65"/>
   </a>
-  <p align="center" width="100%">
-    <img width="45%" src="https://user-images.githubusercontent.com/53323058/274168459-a64662af-d4c9-486d-a80f-f41475621f02.png">
-    <img width="46.4%" src="https://user-images.githubusercontent.com/53323058/274165423-e0a6d50a-e1da-4e8c-baf5-48afceaf0d06.png">
-</p>
 </div>
  
 ### Additional info
