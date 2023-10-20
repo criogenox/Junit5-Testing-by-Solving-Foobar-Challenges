@@ -47,26 +47,22 @@ The initial aim was solving tasks on my own just for the enjoyment itself (got t
 
 ### Built with
 
- <div align="center" width="100%">
-  <p>
-     <a href="https://www.java.com/en/" style="text-decoration:none">
-    <img width="25%" class="img" src="https://user-images.githubusercontent.com/53323058/273763700-87da1703-8aaa-473a-82a7-595478683383.png" alt="Logo" width="160" height="65"/>
+ <div style="display: flex; flex-direction: row; align=center">
+  <a href="https://www.java.com/en/">
+    <img src="https://user-images.githubusercontent.com/53323058/273763700-87da1703-8aaa-473a-82a7-595478683383.png" alt="Logo" width="160" height="65"/>
   </a>
-    </p>
-    <p>
   <a href="https://junit.org/junit5/">
-    <img width="25%" class="img"src="https://user-images.githubusercontent.com/53323058/273760886-5dd75127-437e-478e-9cae-3d28e3d89149.png" alt="Logo" width="160" height="65"/>
+    <img src="https://user-images.githubusercontent.com/53323058/273760886-5dd75127-437e-478e-9cae-3d28e3d89149.png" alt="Logo" width="160" height="65"/>
   </a>
-  </p>
-  <p>
   <a href="https://maven.apache.org/">
-    <img class="img"src="https://user-images.githubusercontent.com/53323058/230741096-33c1b8ab-1ec8-4364-b877-09aaa7df0fcd.png" alt="Logo" width="160" height="65"/>
+    <img src="https://user-images.githubusercontent.com/53323058/230741096-33c1b8ab-1ec8-4364-b877-09aaa7df0fcd.png" alt="Logo" width="160" height="65"/>
   </a> 
-  </p>
-  <p>
   <a href="https://netbeans.apache.org/">
-    <img class="img"src="https://user-images.githubusercontent.com/53323058/273762946-9cd1d557-5ac2-4dd4-898f-9e0e369ecd72.png" alt="Logo" width="160" height="65"/>
+    <img src="https://user-images.githubusercontent.com/53323058/273762946-9cd1d557-5ac2-4dd4-898f-9e0e369ecd72.png" alt="Logo" width="160" height="65"/>
   </a>
+  <p align="center" width="100%">
+    <img width="45%" src="https://user-images.githubusercontent.com/53323058/274168459-a64662af-d4c9-486d-a80f-f41475621f02.png">
+    <img width="46.4%" src="https://user-images.githubusercontent.com/53323058/274165423-e0a6d50a-e1da-4e8c-baf5-48afceaf0d06.png">
 </p>
 </div>
  
