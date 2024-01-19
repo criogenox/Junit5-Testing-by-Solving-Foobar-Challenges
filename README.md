@@ -79,7 +79,7 @@ The initial aim was solving tasks on my own just for the enjoyment itself (got t
 |   4    |         `Zombit Antidote`           |           int[ ][ ]          |        int        |       ✔       |
 |   5    |  `Please Pass The Coded Messages`   |            int[ ]            |      String       |       ✔       |
 |   6    |              `Re-ID`                |              int             |      String       |       ✔       |
-|   7    |         `Zombit Infection`          |   int[ ][ ], int, ,int, int  |     int[ ][ ]     |       ✔       |
+|   7    |         `Zombit Infection`          |   int[ ][ ], int, int, int   |     int[ ][ ]     |       ✔       |
 </div>
 
 ### Junit5 version 
