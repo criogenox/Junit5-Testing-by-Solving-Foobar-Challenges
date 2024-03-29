@@ -43,7 +43,7 @@ The initial aim was solving tasks on my own just for the enjoyment itself (got t
 
 </div>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built with
  <div style="display: flex; flex-direction: row; align=center">
@@ -63,7 +63,7 @@ The initial aim was solving tasks on my own just for the enjoyment itself (got t
  
 </div>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- SUMMARY -->
 ## Implementation details 
@@ -117,14 +117,14 @@ The initial aim was solving tasks on my own just for the enjoyment itself (got t
         
 </div>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
